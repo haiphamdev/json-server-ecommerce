@@ -1,0 +1,288 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Điện thoại",
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "name": "Laptop",
+      "createdAt": 1652248276587,
+      "updatedAt": 1652248276587,
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "categoryId": 1,
+      "id": 1,
+      "name": "iPhone XR 128GB",
+      "description": "Được xem là phiên bản iPhone giá rẻ đầy hoàn hảo, iPhone Xr 128GB khiến người dùng có nhiều sự lựa chọn hơn về màu sắc đa dạng nhưng vẫn sở hữu cấu hình mạnh mẽ và thiết kế sang trọng.",
+      "color": ["Trắng", "Đen"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 13490000,
+      "promotionPercent": 0,
+      "salePrice": 13400000,
+      "shortDescription": "'Màn hình 6.1',  Chip Apple A12 Bionic,RAM 3 GB,  ROM 128 GB, Camera sau: 12 MP, Camera trước: 7 MP, Pin 2942 mAh,  Sạc 15 W",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/42/191483/iphone-xr-128gb-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 1,
+      "id": 2,
+      "name": "iPhone SE 128GB (2022)",
+      "description": "iPhone SE 256GB (2022) đã chính thức ra mắt toàn cầu tại sự kiện Peek Performance, thiết bị được biết đến như là một chiếc iPhone thừa hưởng nhiều thông số kỹ thuật nổi bật, đặc biệt là con chip Apple A15 Bionic hiện đại với mức giá trang bị cực kỳ phải chăng.",
+      "color": ["Trắng", "Đen"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 13990000,
+      "promotionPercent": 0,
+      "salePrice": 13490000,
+      "shortDescription": "'Màn hình 4.7', Chip Apple A15 Bionic ,RAM 3 GB, ROM 256 GB,Camera sau: 12 MP,Camera trước: 7 ,Pin 2018 mAh, Sạc 20 W",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/42/274160/iphone-se-black-600x600.jpeg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 1,
+      "id": 3,
+      "name": "iPhone 11 64GB",
+      "description": "Apple đã chính thức trình làng bộ 3 siêu phẩm iPhone 11, trong đó phiên bản iPhone 11 64GB có mức giá rẻ nhất nhưng vẫn được nâng cấp mạnh mẽ như iPhone Xr ra mắt trước đó.",
+      "color": ["Trắng", "Đen"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 14990000,
+      "promotionPercent": 13,
+      "salePrice": 12990000,
+      "shortDescription": "'Màn hình 6.1', Chip Apple A13 Bionic, RAM 4 GB, ROM 64 GB, Camera sau: 2 camera 12 MP, Camera trước: 12 MP, Pin 3110 mAh, Sạc 18 W",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-xi-do-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 1,
+      "id": 4,
+      "name": "iPhone 12 64GB",
+      "description": "Trong những tháng cuối năm 2020, Apple đã chính thức giới thiệu đến người dùng cũng như iFan thế hệ iPhone 12 series mới với hàng loạt tính năng bứt phá, thiết kế được lột xác hoàn toàn, hiệu năng đầy mạnh mẽ và một trong số đó chính là iPhone 12 64GB.",
+      "color": ["Trắng", "Đen"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 19990000,
+      "promotionPercent": 13,
+      "salePrice": 19190000,
+      "shortDescription": "'Màn hình 6.1', Chip Apple A14 Bionic, RAM 4 GB, ROM 64 GB, Camera sau: 2 camera 12 MP, Camera trước: 12 MP, Pin 2815 mAh, Sạc 20 W",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-xanh-la-new-2-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 1,
+      "id": 5,
+      "name": "iPhone 13 Pro Max 256GB",
+      "description": "Trong những tháng cuối năm 2020, Apple đã chính thức giới thiệu đến người dùng cũng như iFan thế hệ iPhone 12 series mới với hàng loạt tính năng bứt phá, thiết kế được lột xác hoàn toàn, hiệu năng đầy mạnh mẽ và một trong số đó chính là iPhone 12 64GB.",
+      "color": ["Trắng", "Đen"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 36990000,
+      "promotionPercent": 9,
+      "salePrice": 33490000,
+      "shortDescription": "'Màn hình 6.7', Chip Apple A15 Bionic, RAM 6 GB, ROM 256 GB, Camera sau: 3 camera 12 MP, Camera trước: 12 MP, Pin 4352 mAh, Sạc 20 W",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-xanh-la-new-2-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 1,
+      "id": 6,
+      "name": "Samsung Galaxy S22 Ultra 5G",
+      "description": "Galaxy S22 Ultra 5G chiếc smartphone cao cấp nhất trong bộ 3 Galaxy S22 series mà Samsung đã cho ra mắt. Tích hợp bút S Pen hoàn hảo trong thân máy, trang bị vi xử lý mạnh mẽ cho các tác vụ sử dụng vô cùng mượt mà và nổi bật hơn với cụm camera không viền độc đáo mang đậm dấu ấn riêng.",
+      "color": ["Trắng", "Đen"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 30990000,
+      "promotionPercent": 0,
+      "salePrice": 30990000,
+      "shortDescription": "Màn hình 6.8, Chip Snapdragon 8 Gen 1 8 nhân, RAM 8 GB, ROM 128 GB, Camera sau: Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP, Camera trước: 40 MP, Pin 5000 mAh, Sạc 45 W",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 1,
+      "id": 7,
+      "name": "Samsung Galaxy S22 Ultra 5G",
+      "description": "Galaxy S22 Ultra 5G chiếc smartphone cao cấp nhất trong bộ 3 Galaxy S22 series mà Samsung đã cho ra mắt. Tích hợp bút S Pen hoàn hảo trong thân máy, trang bị vi xử lý mạnh mẽ cho các tác vụ sử dụng vô cùng mượt mà và nổi bật hơn với cụm camera không viền độc đáo mang đậm dấu ấn riêng.",
+      "color": ["Trắng", "Đen"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 30990000,
+      "promotionPercent": 0,
+      "salePrice": 30990000,
+      "shortDescription": "Màn hình 6.8, Chip Snapdragon 8 Gen 1 8 nhân, RAM 8 GB, ROM 128 GB, Camera sau: Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP, Camera trước: 40 MP, Pin 5000 mAh, Sạc 45 W",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 1,
+      "id": 8,
+      "name": "Samsung Galaxy S22 Ultra 5G",
+      "description": "Galaxy S22 Ultra 5G chiếc smartphone cao cấp nhất trong bộ 3 Galaxy S22 series mà Samsung đã cho ra mắt. Tích hợp bút S Pen hoàn hảo trong thân máy, trang bị vi xử lý mạnh mẽ cho các tác vụ sử dụng vô cùng mượt mà và nổi bật hơn với cụm camera không viền độc đáo mang đậm dấu ấn riêng.",
+      "color": ["Trắng", "Đen"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 30990000,
+      "promotionPercent": 0,
+      "salePrice": 30990000,
+      "shortDescription": "Màn hình 6.8, Chip Snapdragon 8 Gen 1 8 nhân, RAM 8 GB, ROM 128 GB, Camera sau: Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP, Camera trước: 40 MP, Pin 5000 mAh, Sạc 45 W",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 1,
+      "id": 9,
+      "name": "Samsung Galaxy S22 Ultra 5G",
+      "description": "Galaxy S22 Ultra 5G chiếc smartphone cao cấp nhất trong bộ 3 Galaxy S22 series mà Samsung đã cho ra mắt. Tích hợp bút S Pen hoàn hảo trong thân máy, trang bị vi xử lý mạnh mẽ cho các tác vụ sử dụng vô cùng mượt mà và nổi bật hơn với cụm camera không viền độc đáo mang đậm dấu ấn riêng.",
+      "color": ["Trắng", "Đen"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 30990000,
+      "promotionPercent": 0,
+      "salePrice": 30990000,
+      "shortDescription": "Màn hình 6.8, Chip Snapdragon 8 Gen 1 8 nhân, RAM 8 GB, ROM 128 GB, Camera sau: Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP, Camera trước: 40 MP, Pin 5000 mAh, Sạc 45 W",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 1,
+      "id": 10,
+      "name": "Samsung Galaxy S22 Ultra 5G",
+      "description": "Galaxy S22 Ultra 5G chiếc smartphone cao cấp nhất trong bộ 3 Galaxy S22 series mà Samsung đã cho ra mắt. Tích hợp bút S Pen hoàn hảo trong thân máy, trang bị vi xử lý mạnh mẽ cho các tác vụ sử dụng vô cùng mượt mà và nổi bật hơn với cụm camera không viền độc đáo mang đậm dấu ấn riêng.",
+      "color": ["Trắng", "Đen"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 30990000,
+      "promotionPercent": 0,
+      "salePrice": 30990000,
+      "shortDescription": "Màn hình 6.8, Chip Snapdragon 8 Gen 1 8 nhân, RAM 8 GB, ROM 128 GB, Camera sau: Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP, Camera trước: 40 MP, Pin 5000 mAh, Sạc 45 W",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 2,
+      "id": 11,
+      "name": "MacBook Air M1 2020 7-core GPU",
+      "description": "Laptop Apple MacBook Air M1 2020 có thiết kế đẹp, sang trọng với CPU M1 độc quyền từ Apple cho hiệu năng đồ họa cao, màn hình Retina hiển thị siêu nét cùng với hệ thống bảo mật tối ưu.",
+      "color": ["Bạc", "Xám"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 33490000,
+      "promotionPercent": 14,
+      "salePrice": 28490000,
+      "shortDescription": "M.HÌNH13.3, Retina, CPU Apple M1, CARD 7 nhân GPU, PIN Khoảng 10 tiếng",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/44/239552/macbook-air-m1-2020-gray-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 2,
+      "id": 12,
+      "name": "MacBook Air M1 2020 7-core GPU",
+      "description": "Laptop Apple MacBook Air M1 2020 có thiết kế đẹp, sang trọng với CPU M1 độc quyền từ Apple cho hiệu năng đồ họa cao, màn hình Retina hiển thị siêu nét cùng với hệ thống bảo mật tối ưu.",
+      "color": ["Bạc", "Xám"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 33490000,
+      "promotionPercent": 14,
+      "salePrice": 28490000,
+      "shortDescription": "M.HÌNH13.3, Retina, CPU Apple M1, CARD 7 nhân GPU, PIN Khoảng 10 tiếng",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/44/239552/macbook-air-m1-2020-gray-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 2,
+      "id": 13,
+      "name": "MacBook Air M1 2020 7-core GPU",
+      "description": "Laptop Apple MacBook Air M1 2020 có thiết kế đẹp, sang trọng với CPU M1 độc quyền từ Apple cho hiệu năng đồ họa cao, màn hình Retina hiển thị siêu nét cùng với hệ thống bảo mật tối ưu.",
+      "color": ["Bạc", "Xám"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 33490000,
+      "promotionPercent": 14,
+      "salePrice": 28490000,
+      "shortDescription": "M.HÌNH13.3, Retina, CPU Apple M1, CARD 7 nhân GPU, PIN Khoảng 10 tiếng",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/44/239552/macbook-air-m1-2020-gray-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 2,
+      "id": 14,
+      "name": "MacBook Air M1 2020 7-core GPU",
+      "description": "Laptop Apple MacBook Air M1 2020 có thiết kế đẹp, sang trọng với CPU M1 độc quyền từ Apple cho hiệu năng đồ họa cao, màn hình Retina hiển thị siêu nét cùng với hệ thống bảo mật tối ưu.",
+      "color": ["Bạc", "Xám"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 33490000,
+      "promotionPercent": 14,
+      "salePrice": 28490000,
+      "shortDescription": "M.HÌNH13.3, Retina, CPU Apple M1, CARD 7 nhân GPU, PIN Khoảng 10 tiếng",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/44/239552/macbook-air-m1-2020-gray-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    },
+    {
+      "categoryId": 2,
+      "id": 15,
+      "name": "MacBook Air M1 2020 7-core GPU",
+      "description": "Laptop Apple MacBook Air M1 2020 có thiết kế đẹp, sang trọng với CPU M1 độc quyền từ Apple cho hiệu năng đồ họa cao, màn hình Retina hiển thị siêu nét cùng với hệ thống bảo mật tối ưu.",
+      "color": ["Bạc", "Xám"],
+      "isFreeShip": false,
+      "isPromotion": false,
+      "originalPrice": 33490000,
+      "promotionPercent": 14,
+      "salePrice": 28490000,
+      "shortDescription": "M.HÌNH13.3, Retina, CPU Apple M1, CARD 7 nhân GPU, PIN Khoảng 10 tiếng",
+      "thumbnail": {
+        "url": "https://cdn.tgdd.vn/Products/Images/44/239552/macbook-air-m1-2020-gray-600x600.jpg"
+      },
+      "createdAt": 12121212,
+      "updatedAt": 12121212
+    }
+  ]
+}

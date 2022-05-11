@@ -1,0 +1,57 @@
+@baseUrl = http://localhost:3000/api
+
+@resourceName = products
+
+# Products
+
+# @name getAll
+
+GET {{baseUrl}}/{{resourceName}}
+
+###
+
+# @name filterProducts
+GET {{baseUrl}}/{{resourceName}}?salePrice_gte=12400000
+
+###
+
+# @name filterProducts
+GET {{baseUrl}}/{{resourceName}}?name_like=iphone SE
+
+###
+
+# @name pagination
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=1
+
+###
+
+# @name sort
+GET {{baseUrl}}/{{resourceName}}?_sort=salePrice&_order=desc
+
+###
+
+# @name addNew
+
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "name": "iphone pro",
+}
+
+###
+
+# @name update
+PATCH {{baseUrl}}/{{resourceName}}/2
+Content-Type: application/json
+
+{
+    "name": "iPhone SE 256GB (2022)"
+}
+
+###
+
+# @name remove
+DELETE  {{baseUrl}}/{{resourceName}}/3
+Content-Type: application/json
+
