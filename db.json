@@ -1,288 +1,457 @@
 {
   "categories": [
     {
-      "id": 1,
-      "name": "Điện thoại",
-      "createdAt": 12121212,
-      "updatedAt": 12121212
+      "id": "82594ae7-8f4b-45f4-9619-86089334f4b0",
+      "name": "Apple Ipad",
+      "createdAt": 1652419844017,
+      "updatedAt": 1652419844017
     },
     {
-      "name": "Laptop",
-      "createdAt": 1652248276587,
-      "updatedAt": 1652248276587,
-      "id": 2
+      "id": "06737dc6-bb2e-42da-8b4c-901594d23ba4",
+      "name": "Apple Watch",
+      "createdAt": 1652419844018,
+      "updatedAt": 1652419844018
+    },
+    {
+      "id": "ee9026a2-a41c-42c4-83cf-518045b2cd72",
+      "name": "Iphone",
+      "createdAt": 1652419844018,
+      "updatedAt": 1652419844018
+    },
+    {
+      "id": "b30accd4-1968-43f9-b062-74ad01ce4e75",
+      "name": "MacBook",
+      "createdAt": 1652419844018,
+      "updatedAt": 1652419844018
     }
   ],
   "products": [
     {
-      "categoryId": 1,
-      "id": 1,
-      "name": "iPhone XR 128GB",
-      "description": "Được xem là phiên bản iPhone giá rẻ đầy hoàn hảo, iPhone Xr 128GB khiến người dùng có nhiều sự lựa chọn hơn về màu sắc đa dạng nhưng vẫn sở hữu cấu hình mạnh mẽ và thiết kế sang trọng.",
-      "color": ["Trắng", "Đen"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 13490000,
+      "categoryId": "82594ae7-8f4b-45f4-9619-86089334f4b0",
+      "id": "92b6421e-727b-4e8b-84f2-af4d10829006",
+      "name": "iPad Air 2020 12.9 Inch",
+      "originalPrice": 59900,
       "promotionPercent": 0,
-      "salePrice": 13400000,
-      "shortDescription": "'Màn hình 6.1',  Chip Apple A12 Bionic,RAM 3 GB,  ROM 128 GB, Camera sau: 12 MP, Camera trước: 7 MP, Pin 2942 mAh,  Sạc 15 W",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/42/191483/iphone-xr-128gb-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
+      "salePrice": 59900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "rating": 4,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/20_6ae7f889-3719-42e9-b10d-a5a44b07a83b_360x.jpg?v=1643628035",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/20_6ae7f889-3719-42e9-b10d-a5a44b07a83b_compact.jpg?v=1643628035",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/22_c0e91f1e-3e84-48c6-b8c6-4776749b07b2_compact.jpg?v=1643628035",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/18_19505975-88bc-40fd-bf0d-1cd746cdc67a_compact.jpg?v=1643628035",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/21_3eb7fb8d-a8ad-4562-bcdf-880a7774c932_compact.jpg?v=1643628026"
+      ],
+      "createdAt": 1652419844019,
+      "updatedAt": 1652419844019
     },
     {
-      "categoryId": 1,
-      "id": 2,
-      "name": "iPhone SE 128GB (2022)",
-      "description": "iPhone SE 256GB (2022) đã chính thức ra mắt toàn cầu tại sự kiện Peek Performance, thiết bị được biết đến như là một chiếc iPhone thừa hưởng nhiều thông số kỹ thuật nổi bật, đặc biệt là con chip Apple A15 Bionic hiện đại với mức giá trang bị cực kỳ phải chăng.",
-      "color": ["Trắng", "Đen"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 13990000,
+      "categoryId": "82594ae7-8f4b-45f4-9619-86089334f4b0",
+      "id": "35acdcfd-b4b0-49e2-8535-41e01cf70ff5",
+      "name": "Astor iPad Pro 12.9 Inch",
+      "originalPrice": 59900,
       "promotionPercent": 0,
-      "salePrice": 13490000,
-      "shortDescription": "'Màn hình 4.7', Chip Apple A15 Bionic ,RAM 3 GB, ROM 256 GB,Camera sau: 12 MP,Camera trước: 7 ,Pin 2018 mAh, Sạc 20 W",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/42/274160/iphone-se-black-600x600.jpeg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
+      "salePrice": 59900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "rating": 4,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/22_8f56deb1-a60c-4bb8-8451-e92d1ecac721_800x.jpg?v=1643627967",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/22_8f56deb1-a60c-4bb8-8451-e92d1ecac721_compact.jpg?v=1643627967",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/18_59783586-b453-4753-b41f-403c4e6e1000_compact.jpg?v=1643627967",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/20_7600d006-f15f-42c6-b2dc-6b23dd3eb56d_compact.jpg?v=1643627967",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/21_b527cf3a-90ef-4173-8b49-3daa4c2e213f_compact.jpg?v=1643627967"
+      ],
+      "createdAt": 1652419844019,
+      "updatedAt": 1652419844019
     },
     {
-      "categoryId": 1,
-      "id": 3,
-      "name": "iPhone 11 64GB",
-      "description": "Apple đã chính thức trình làng bộ 3 siêu phẩm iPhone 11, trong đó phiên bản iPhone 11 64GB có mức giá rẻ nhất nhưng vẫn được nâng cấp mạnh mẽ như iPhone Xr ra mắt trước đó.",
-      "color": ["Trắng", "Đen"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 14990000,
-      "promotionPercent": 13,
-      "salePrice": 12990000,
-      "shortDescription": "'Màn hình 6.1', Chip Apple A13 Bionic, RAM 4 GB, ROM 64 GB, Camera sau: 2 camera 12 MP, Camera trước: 12 MP, Pin 3110 mAh, Sạc 18 W",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-xi-do-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
-    },
-    {
-      "categoryId": 1,
-      "id": 4,
-      "name": "iPhone 12 64GB",
-      "description": "Trong những tháng cuối năm 2020, Apple đã chính thức giới thiệu đến người dùng cũng như iFan thế hệ iPhone 12 series mới với hàng loạt tính năng bứt phá, thiết kế được lột xác hoàn toàn, hiệu năng đầy mạnh mẽ và một trong số đó chính là iPhone 12 64GB.",
-      "color": ["Trắng", "Đen"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 19990000,
-      "promotionPercent": 13,
-      "salePrice": 19190000,
-      "shortDescription": "'Màn hình 6.1', Chip Apple A14 Bionic, RAM 4 GB, ROM 64 GB, Camera sau: 2 camera 12 MP, Camera trước: 12 MP, Pin 2815 mAh, Sạc 20 W",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-xanh-la-new-2-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
-    },
-    {
-      "categoryId": 1,
-      "id": 5,
-      "name": "iPhone 13 Pro Max 256GB",
-      "description": "Trong những tháng cuối năm 2020, Apple đã chính thức giới thiệu đến người dùng cũng như iFan thế hệ iPhone 12 series mới với hàng loạt tính năng bứt phá, thiết kế được lột xác hoàn toàn, hiệu năng đầy mạnh mẽ và một trong số đó chính là iPhone 12 64GB.",
-      "color": ["Trắng", "Đen"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 36990000,
-      "promotionPercent": 9,
-      "salePrice": 33490000,
-      "shortDescription": "'Màn hình 6.7', Chip Apple A15 Bionic, RAM 6 GB, ROM 256 GB, Camera sau: 3 camera 12 MP, Camera trước: 12 MP, Pin 4352 mAh, Sạc 20 W",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-xanh-la-new-2-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
-    },
-    {
-      "categoryId": 1,
-      "id": 6,
-      "name": "Samsung Galaxy S22 Ultra 5G",
-      "description": "Galaxy S22 Ultra 5G chiếc smartphone cao cấp nhất trong bộ 3 Galaxy S22 series mà Samsung đã cho ra mắt. Tích hợp bút S Pen hoàn hảo trong thân máy, trang bị vi xử lý mạnh mẽ cho các tác vụ sử dụng vô cùng mượt mà và nổi bật hơn với cụm camera không viền độc đáo mang đậm dấu ấn riêng.",
-      "color": ["Trắng", "Đen"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 30990000,
+      "categoryId": "82594ae7-8f4b-45f4-9619-86089334f4b0",
+      "id": "4a95660d-b599-4747-800c-096f1af52cf2",
+      "name": "Astor iPad Pro 11 Inch",
+      "originalPrice": 59900,
       "promotionPercent": 0,
-      "salePrice": 30990000,
-      "shortDescription": "Màn hình 6.8, Chip Snapdragon 8 Gen 1 8 nhân, RAM 8 GB, ROM 128 GB, Camera sau: Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP, Camera trước: 40 MP, Pin 5000 mAh, Sạc 45 W",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
+      "salePrice": 59900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "rating": 4,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/18_800x.jpg?v=1643627742",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/18_compact.jpg?v=1643627742",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/20_compact.jpg?v=1643627742",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/21_compact.jpg?v=1643627742",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/22_compact.jpg?v=1643627742"
+      ],
+      "createdAt": 1652419844020,
+      "updatedAt": 1652419844020
     },
     {
-      "categoryId": 1,
-      "id": 7,
-      "name": "Samsung Galaxy S22 Ultra 5G",
-      "description": "Galaxy S22 Ultra 5G chiếc smartphone cao cấp nhất trong bộ 3 Galaxy S22 series mà Samsung đã cho ra mắt. Tích hợp bút S Pen hoàn hảo trong thân máy, trang bị vi xử lý mạnh mẽ cho các tác vụ sử dụng vô cùng mượt mà và nổi bật hơn với cụm camera không viền độc đáo mang đậm dấu ấn riêng.",
-      "color": ["Trắng", "Đen"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 30990000,
+      "categoryId": "82594ae7-8f4b-45f4-9619-86089334f4b0",
+      "id": "c95011dc-4090-45a0-9cf4-8c99605b3e5f",
+      "name": "Astor iPad Pro 11 Inch",
+      "originalPrice": 59900,
       "promotionPercent": 0,
-      "salePrice": 30990000,
-      "shortDescription": "Màn hình 6.8, Chip Snapdragon 8 Gen 1 8 nhân, RAM 8 GB, ROM 128 GB, Camera sau: Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP, Camera trước: 40 MP, Pin 5000 mAh, Sạc 45 W",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
+      "salePrice": 59900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "rating": 4,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/18_800x.jpg?v=1643627742",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/18_compact.jpg?v=1643627742",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/20_compact.jpg?v=1643627742",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/21_compact.jpg?v=1643627742",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/22_compact.jpg?v=1643627742"
+      ],
+      "createdAt": 1652419844020,
+      "updatedAt": 1652419844020
     },
     {
-      "categoryId": 1,
-      "id": 8,
-      "name": "Samsung Galaxy S22 Ultra 5G",
-      "description": "Galaxy S22 Ultra 5G chiếc smartphone cao cấp nhất trong bộ 3 Galaxy S22 series mà Samsung đã cho ra mắt. Tích hợp bút S Pen hoàn hảo trong thân máy, trang bị vi xử lý mạnh mẽ cho các tác vụ sử dụng vô cùng mượt mà và nổi bật hơn với cụm camera không viền độc đáo mang đậm dấu ấn riêng.",
-      "color": ["Trắng", "Đen"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 30990000,
+      "categoryId": "82594ae7-8f4b-45f4-9619-86089334f4b0",
+      "id": "3a85713f-19ed-40e8-a6c4-50029654e125",
+      "name": "Astor iPad Pro 11 Inch",
+      "originalPrice": 59900,
       "promotionPercent": 0,
-      "salePrice": 30990000,
-      "shortDescription": "Màn hình 6.8, Chip Snapdragon 8 Gen 1 8 nhân, RAM 8 GB, ROM 128 GB, Camera sau: Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP, Camera trước: 40 MP, Pin 5000 mAh, Sạc 45 W",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
+      "salePrice": 59900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "rating": 4,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/18_800x.jpg?v=1643627742",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/18_compact.jpg?v=1643627742",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/20_compact.jpg?v=1643627742",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/21_compact.jpg?v=1643627742",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/22_compact.jpg?v=1643627742"
+      ],
+      "createdAt": 1652419844021,
+      "updatedAt": 1652419844021
     },
     {
-      "categoryId": 1,
-      "id": 9,
-      "name": "Samsung Galaxy S22 Ultra 5G",
-      "description": "Galaxy S22 Ultra 5G chiếc smartphone cao cấp nhất trong bộ 3 Galaxy S22 series mà Samsung đã cho ra mắt. Tích hợp bút S Pen hoàn hảo trong thân máy, trang bị vi xử lý mạnh mẽ cho các tác vụ sử dụng vô cùng mượt mà và nổi bật hơn với cụm camera không viền độc đáo mang đậm dấu ấn riêng.",
-      "color": ["Trắng", "Đen"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 30990000,
+      "categoryId": "06737dc6-bb2e-42da-8b4c-901594d23ba4",
+      "id": "e9380f08-83b0-45f5-b3fd-b61507d16606",
+      "name": "Astor Watch Series 4",
+      "originalPrice": 99900,
       "promotionPercent": 0,
-      "salePrice": 30990000,
-      "shortDescription": "Màn hình 6.8, Chip Snapdragon 8 Gen 1 8 nhân, RAM 8 GB, ROM 128 GB, Camera sau: Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP, Camera trước: 40 MP, Pin 5000 mAh, Sạc 45 W",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
+      "salePrice": 99900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "color": ["red", "black", "blue"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/25_360x.png?v=1643625406",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/28_2f1952d6-a83b-4321-bbb7-195e9a02506c_compact.png?v=1643625406",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/30_01f42108-c0fa-44cf-a967-c0672923238e_compact.png?v=1643625402",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/25_compact.png?v=1643625406",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_01357c15-0fe7-4bb6-9db6-6307952f5c71_compact.png?v=1643625406"
+      ],
+      "createdAt": 1652419844021,
+      "updatedAt": 1652419844021
     },
     {
-      "categoryId": 1,
-      "id": 10,
-      "name": "Samsung Galaxy S22 Ultra 5G",
-      "description": "Galaxy S22 Ultra 5G chiếc smartphone cao cấp nhất trong bộ 3 Galaxy S22 series mà Samsung đã cho ra mắt. Tích hợp bút S Pen hoàn hảo trong thân máy, trang bị vi xử lý mạnh mẽ cho các tác vụ sử dụng vô cùng mượt mà và nổi bật hơn với cụm camera không viền độc đáo mang đậm dấu ấn riêng.",
-      "color": ["Trắng", "Đen"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 30990000,
+      "categoryId": "06737dc6-bb2e-42da-8b4c-901594d23ba4",
+      "id": "2449455a-e352-4370-93af-95ea88bbb9bb",
+      "name": "Watch Gold Series 4",
+      "originalPrice": 99900,
       "promotionPercent": 0,
-      "salePrice": 30990000,
-      "shortDescription": "Màn hình 6.8, Chip Snapdragon 8 Gen 1 8 nhân, RAM 8 GB, ROM 128 GB, Camera sau: Chính 108 MP & Phụ 12 MP, 10 MP, 10 MP, Camera trước: 40 MP, Pin 5000 mAh, Sạc 45 W",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
+      "salePrice": 99900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "color": ["red", "black", "blue"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_76420093-07fc-490e-bdbd-38c71a4d8016_800x.png?v=1643625337",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_76420093-07fc-490e-bdbd-38c71a4d8016_compact.png?v=1643625337",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/29_ac493aff-5c05-465b-b996-0ad24093cb4a_compact.png?v=1643625337",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/28_d5a63083-c7ef-4909-8ac6-6a76ef35cfae_compact.png?v=1643625337",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/30_e3bb98b5-994a-4a99-8949-bee82cd5c1fd_compact.png?v=1643625337"
+      ],
+      "createdAt": 1652419844022,
+      "updatedAt": 1652419844022
     },
     {
-      "categoryId": 2,
-      "id": 11,
-      "name": "MacBook Air M1 2020 7-core GPU",
-      "description": "Laptop Apple MacBook Air M1 2020 có thiết kế đẹp, sang trọng với CPU M1 độc quyền từ Apple cho hiệu năng đồ họa cao, màn hình Retina hiển thị siêu nét cùng với hệ thống bảo mật tối ưu.",
-      "color": ["Bạc", "Xám"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 33490000,
-      "promotionPercent": 14,
-      "salePrice": 28490000,
-      "shortDescription": "M.HÌNH13.3, Retina, CPU Apple M1, CARD 7 nhân GPU, PIN Khoảng 10 tiếng",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/44/239552/macbook-air-m1-2020-gray-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
+      "categoryId": "06737dc6-bb2e-42da-8b4c-901594d23ba4",
+      "id": "2c4b20b4-55a7-4d42-8da0-a7152358bfae",
+      "name": "New Watch Series Black",
+      "originalPrice": 99900,
+      "promotionPercent": 0,
+      "salePrice": 99900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "color": ["red", "black", "blue"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/29_3969ab5c-333c-4712-bc11-c1e60510367d_360x.png?v=1643625211",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/29_3969ab5c-333c-4712-bc11-c1e60510367d_compact.png?v=1643625211",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/29_3969ab5c-333c-4712-bc11-c1e60510367d_compact.png?v=1643625211",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/30_e46e05e8-ad4f-43fa-8147-ec6f5f11339e_compact.png?v=1643625211",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_1c6926ff-a4b5-4231-be3e-74a0c5fbe1be_compact.png?v=1643625211"
+      ],
+      "createdAt": 1652419844023,
+      "updatedAt": 1652419844023
     },
     {
-      "categoryId": 2,
-      "id": 12,
-      "name": "MacBook Air M1 2020 7-core GPU",
-      "description": "Laptop Apple MacBook Air M1 2020 có thiết kế đẹp, sang trọng với CPU M1 độc quyền từ Apple cho hiệu năng đồ họa cao, màn hình Retina hiển thị siêu nét cùng với hệ thống bảo mật tối ưu.",
-      "color": ["Bạc", "Xám"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 33490000,
-      "promotionPercent": 14,
-      "salePrice": 28490000,
-      "shortDescription": "M.HÌNH13.3, Retina, CPU Apple M1, CARD 7 nhân GPU, PIN Khoảng 10 tiếng",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/44/239552/macbook-air-m1-2020-gray-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
+      "categoryId": "06737dc6-bb2e-42da-8b4c-901594d23ba4",
+      "id": "6a6d7a0f-b6c4-4ce3-930b-d68baa230dc5",
+      "name": "Astor Watch Series 5",
+      "originalPrice": 99900,
+      "promotionPercent": 0,
+      "salePrice": 99900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "color": ["red", "black", "blue"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/30_36b460e7-db63-4a6d-af3c-1eab7c3d27be_360x.png?v=1643625055",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/28_compact.png?v=1643625055",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/30_36b460e7-db63-4a6d-af3c-1eab7c3d27be_compact.png?v=1643625055",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_7d0a2864-fb44-40d2-a557-19b992a82b91_compact.png?v=1643625055",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/29_fe367684-a56e-44f7-9ae3-43b1a9ca175d_compact.png?v=1643625055"
+      ],
+      "createdAt": 1652419844023,
+      "updatedAt": 1652419844023
     },
     {
-      "categoryId": 2,
-      "id": 13,
-      "name": "MacBook Air M1 2020 7-core GPU",
-      "description": "Laptop Apple MacBook Air M1 2020 có thiết kế đẹp, sang trọng với CPU M1 độc quyền từ Apple cho hiệu năng đồ họa cao, màn hình Retina hiển thị siêu nét cùng với hệ thống bảo mật tối ưu.",
-      "color": ["Bạc", "Xám"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 33490000,
-      "promotionPercent": 14,
-      "salePrice": 28490000,
-      "shortDescription": "M.HÌNH13.3, Retina, CPU Apple M1, CARD 7 nhân GPU, PIN Khoảng 10 tiếng",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/44/239552/macbook-air-m1-2020-gray-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
+      "categoryId": "06737dc6-bb2e-42da-8b4c-901594d23ba4",
+      "id": "43b43117-54b8-478e-ad54-5163512b6159",
+      "name": "Astor Watch Series 6 Gold",
+      "originalPrice": 99900,
+      "promotionPercent": 0,
+      "salePrice": 99900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "color": ["red", "black", "blue"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/26_800x.png?v=1643624277",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/26_compact.png?v=1643624277",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/30_65800dc0-c86d-4fa6-a89b-ff72ffb51d80_compact.png?v=1643624277",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/24_63418e70-df3b-4615-ba6b-e1de9b1e237b_compact.png?v=1643624277",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/29_e48e0789-d307-43d1-837a-5f8766aec9a5_compact.png?v=1643624277"
+      ],
+      "createdAt": 1652419844024,
+      "updatedAt": 1652419844024
     },
     {
-      "categoryId": 2,
-      "id": 14,
-      "name": "MacBook Air M1 2020 7-core GPU",
-      "description": "Laptop Apple MacBook Air M1 2020 có thiết kế đẹp, sang trọng với CPU M1 độc quyền từ Apple cho hiệu năng đồ họa cao, màn hình Retina hiển thị siêu nét cùng với hệ thống bảo mật tối ưu.",
-      "color": ["Bạc", "Xám"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 33490000,
-      "promotionPercent": 14,
-      "salePrice": 28490000,
-      "shortDescription": "M.HÌNH13.3, Retina, CPU Apple M1, CARD 7 nhân GPU, PIN Khoảng 10 tiếng",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/44/239552/macbook-air-m1-2020-gray-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
+      "categoryId": "ee9026a2-a41c-42c4-83cf-518045b2cd72",
+      "id": "9c349e2b-bfd9-4cd2-85bb-46b7217c2830",
+      "name": "Astor iPhone 13 Pro",
+      "originalPrice": 15000,
+      "promotionPercent": 0,
+      "salePrice": 15000,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "color": ["red", "black", "blue"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/9_1f747b29-001e-450f-8939-d619d6479bca_800x.jpg?v=1643606162",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/9_1f747b29-001e-450f-8939-d619d6479bca_compact.jpg?v=1643606162",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/11_466b7e59-bd93-4b4d-bfbb-cef9994ea83a_compact.jpg?v=1643606162",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/12_6d5acf4b-1896-495e-8f2d-396a58f95ff6_compact.jpg?v=1643606162",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/10_14171a3c-970c-462d-8c28-6ec483df7031_compact.jpg?v=1643606109"
+      ],
+      "createdAt": 1652419844024,
+      "updatedAt": 1652419844024
     },
     {
-      "categoryId": 2,
-      "id": 15,
-      "name": "MacBook Air M1 2020 7-core GPU",
-      "description": "Laptop Apple MacBook Air M1 2020 có thiết kế đẹp, sang trọng với CPU M1 độc quyền từ Apple cho hiệu năng đồ họa cao, màn hình Retina hiển thị siêu nét cùng với hệ thống bảo mật tối ưu.",
-      "color": ["Bạc", "Xám"],
-      "isFreeShip": false,
-      "isPromotion": false,
-      "originalPrice": 33490000,
-      "promotionPercent": 14,
-      "salePrice": 28490000,
-      "shortDescription": "M.HÌNH13.3, Retina, CPU Apple M1, CARD 7 nhân GPU, PIN Khoảng 10 tiếng",
-      "thumbnail": {
-        "url": "https://cdn.tgdd.vn/Products/Images/44/239552/macbook-air-m1-2020-gray-600x600.jpg"
-      },
-      "createdAt": 12121212,
-      "updatedAt": 12121212
+      "categoryId": "ee9026a2-a41c-42c4-83cf-518045b2cd72",
+      "id": "cd4fffde-b5fa-49cc-91fb-86acf36ce6ba",
+      "name": "Astor iPhone 13 mini",
+      "originalPrice": 15000,
+      "promotionPercent": 0,
+      "salePrice": 15000,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "color": ["red", "black", "blue"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/12_374d37ef-6951-4c61-b46d-af6244139c32_800x.jpg?v=1643606073",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/12_374d37ef-6951-4c61-b46d-af6244139c32_compact.jpg?v=1643606073",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/11_378764fb-e08d-40a3-9e5c-80b25d22f558_compact.jpg?v=1643606073",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/10_5b99e70e-c3bd-4d75-87fe-935ebdd4a2f0_compact.jpg?v=1643606073",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/9_221229e2-aa1a-432e-af87-33866ff1f906_compact.jpg?v=1643606065"
+      ],
+      "createdAt": 1652419844024,
+      "updatedAt": 1652419844024
+    },
+    {
+      "categoryId": "ee9026a2-a41c-42c4-83cf-518045b2cd72",
+      "id": "965651ee-184c-4de7-a47f-43d853d21c66",
+      "name": "Astor iPhone 12 Pro",
+      "originalPrice": 8000,
+      "promotionPercent": 0,
+      "salePrice": 8000,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "color": ["red", "black", "blue"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/6_800x.jpg?v=1643602786",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/6_compact.jpg?v=1643602786",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/4_compact.jpg?v=1643602786",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/5_compact.jpg?v=1643602786",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/7_3ffb9361-9f7c-44b7-8624-1e85c033586f_compact.jpg?v=1643602778"
+      ],
+      "createdAt": 1652419844025,
+      "updatedAt": 1652419844025
+    },
+    {
+      "categoryId": "ee9026a2-a41c-42c4-83cf-518045b2cd72",
+      "id": "884c8acc-100b-43b3-b4cb-772ca2c4a74d",
+      "name": "Astor iPhone 12",
+      "originalPrice": 99900,
+      "promotionPercent": 0,
+      "salePrice": 99900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "color": ["red", "black", "blue"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/1_800x.jpg?v=1643534858",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/1_compact.jpg?v=1643534858",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/2_compact.jpg?v=1643534858",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/3_compact.jpg?v=1643534858",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/2_ff89ef53-dbfd-4a58-b377-3cd9a535152e_compact.jpg?v=1643534871"
+      ],
+      "createdAt": 1652419844025,
+      "updatedAt": 1652419844025
+    },
+    {
+      "categoryId": "ee9026a2-a41c-42c4-83cf-518045b2cd72",
+      "id": "70a0c9a7-56d2-4ce6-a8cc-f832cd85af93",
+      "name": "Astor iPhone 12",
+      "originalPrice": 99900,
+      "promotionPercent": 0,
+      "salePrice": 99900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "color": ["red", "black", "blue"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/1_800x.jpg?v=1643534858",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/1_compact.jpg?v=1643534858",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/2_compact.jpg?v=1643534858",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/3_compact.jpg?v=1643534858",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/2_ff89ef53-dbfd-4a58-b377-3cd9a535152e_compact.jpg?v=1643534871"
+      ],
+      "createdAt": 1652419844026,
+      "updatedAt": 1652419844026
+    },
+    {
+      "categoryId": "b30accd4-1968-43f9-b062-74ad01ce4e75",
+      "id": "3135f393-4fad-4325-8335-57d546fd199e",
+      "name": "Astor Macbook Pro 16 inch",
+      "originalPrice": 199900,
+      "promotionPercent": 0,
+      "salePrice": 199900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/15_86068dcd-90b3-4151-b997-f1400617b87e_800x.png?v=1643627552",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/15_86068dcd-90b3-4151-b997-f1400617b87e_compact.png?v=1643627552",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/16_e8db5b39-5435-4176-8b16-919dd19d0bfa_compact.png?v=1643627552",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/14_c0e1c252-6eba-4989-8a18-5f16b1f0ef11_compact.png?v=1643627552"
+      ],
+      "createdAt": 1652419844026,
+      "updatedAt": 1652419844026
+    },
+    {
+      "categoryId": "b30accd4-1968-43f9-b062-74ad01ce4e75",
+      "id": "e7665d7d-3eb3-46a5-9ac0-14f20ed9b84e",
+      "name": "MacBook Pro 13 with M1",
+      "originalPrice": 10000,
+      "promotionPercent": 0,
+      "salePrice": 10000,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/16_f8424338-3405-4676-a0cc-e77fb7aa9b11_800x.png?v=1643608986",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/16_f8424338-3405-4676-a0cc-e77fb7aa9b11_compact.png?v=1643608986",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/13_47c37337-7e7f-41be-8a58-069394f58861_compact.png?v=1643608986",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/14_a042f111-3414-4e15-8d33-8b0edaeedf53_compact.png?v=1643608986",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/15_87dcf843-4832-4768-96d8-83aa090cc6f2_compact.png?v=1643608986"
+      ],
+      "createdAt": 1652419844026,
+      "updatedAt": 1652419844026
+    },
+    {
+      "categoryId": "b30accd4-1968-43f9-b062-74ad01ce4e75",
+      "id": "4a836502-8a76-4358-a74a-6f9fc55aaa1a",
+      "name": "MacBook air with M1",
+      "originalPrice": 199900,
+      "promotionPercent": 0,
+      "salePrice": 199900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/14_360x.png?v=1643608935",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/14_compact.png?v=1643608935",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/13_compact.png?v=1643608935",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/15_compact.png?v=1643608929",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/16_compact.png?v=1643608929"
+      ],
+      "createdAt": 1652419844027,
+      "updatedAt": 1652419844027
+    },
+    {
+      "categoryId": "b30accd4-1968-43f9-b062-74ad01ce4e75",
+      "id": "1c8908c3-d4ce-4643-bdf6-3998d698e6a9",
+      "name": "MacBook air with M1",
+      "originalPrice": 199900,
+      "promotionPercent": 0,
+      "salePrice": 199900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/14_360x.png?v=1643608935",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/14_compact.png?v=1643608935",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/13_compact.png?v=1643608935",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/15_compact.png?v=1643608929",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/16_compact.png?v=1643608929"
+      ],
+      "createdAt": 1652419844027,
+      "updatedAt": 1652419844027
+    },
+    {
+      "categoryId": "b30accd4-1968-43f9-b062-74ad01ce4e75",
+      "id": "d97db22d-3a56-475a-833d-2fb60be12dd6",
+      "name": "MacBook air with M1",
+      "originalPrice": 199900,
+      "promotionPercent": 0,
+      "salePrice": 199900,
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "isFreeShip": true,
+      "storage": ["128GB", "256GB"],
+      "rating": 5,
+      "thumbnailUrl": "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/14_360x.png?v=1643608935",
+      "thumbnailUrls": [
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/14_compact.png?v=1643608935",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/13_compact.png?v=1643608935",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/15_compact.png?v=1643608929",
+        "https://cdn.shopify.com/s/files/1/0023/4104/4283/products/16_compact.png?v=1643608929"
+      ],
+      "createdAt": 1652419844027,
+      "updatedAt": 1652419844027
     }
   ]
 }
